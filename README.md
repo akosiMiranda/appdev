@@ -1,4 +1,2 @@
-# appdev
-my first repository
-
-My favorite food is sinigang and favorite place is sea side
+FORK SINIGANG
+" SINIGANG MIX, KNOR CUBES FORK, WATER "
