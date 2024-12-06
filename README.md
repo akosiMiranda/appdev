@@ -1,1 +1,1 @@
-Myu favorite games is call of duty
+My favorite games is call of duty
