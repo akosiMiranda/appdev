@@ -1,2 +1,1 @@
-# appdev
-my first repository
+My dream is breath under the sea
