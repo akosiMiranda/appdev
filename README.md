@@ -1,2 +1,1 @@
-# appdev
-my first repository
+Our title proposal is developing a mobile app for efficient tricycle fare calculation
