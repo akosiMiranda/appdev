@@ -1,2 +1,1 @@
-# appdev
-my first repository
+Myu favorite games is call of duty
